@@ -247,6 +247,12 @@ https://docs.python-guide.org/starting/install3/linux/#install3-linux
 https://packaging.python.org/tutorials/installing-packages/
 https://vitux.com/install-python3-on-ubuntu-and-set-up-a-virtual-programming-environment/
 
+### SSH
+https://www.digitalocean.com/community/tutorials/how-to-tune-your-ssh-daemon-configuration-on-a-linux-vps
+
+### Ubuntu
+http://manpages.ubuntu.com/manpages/xenial/en/man5/sshd_config.5.html
+
 ### WSGI   
 http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
 https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html
